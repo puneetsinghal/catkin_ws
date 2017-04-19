@@ -21,9 +21,9 @@ The last command should run through without errors. In order to launch it, enter
 Note: the simulated motion of the robot can be very slow, as the mobile base uses a non-optimized controller.
 
 ------------------------------------------------------------------------
-git submodule add git://github.com/repository-name
-git submodule update --init --recursive
-git submodule foreach git pull
+# git submodule add git://github.com/repository-name
+# git submodule update --init --recursive
+# git submodule foreach git pull
 ------------------------------------------------------------------------
 
 
