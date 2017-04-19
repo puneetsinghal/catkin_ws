@@ -22,3 +22,6 @@
 [submodule "src/pr2_simulator"]
 	path = src/pr2_simulator
 	url = https://github.com/PR2/pr2_simulator.git
+[submodule "src/urdf_tutorial"]
+	path = src/urdf_tutorial
+	url = https://github.com/ros/urdf_tutorial.git
