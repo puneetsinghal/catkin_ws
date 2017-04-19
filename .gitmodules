@@ -10,3 +10,6 @@
 [submodule "src/youbot_simulation"]
 	path = src/youbot_simulation
 	url = git://github.com/youbot/youbot_simulation.git
+[submodule "src/baxter_common"]
+	path = src/baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common.git
