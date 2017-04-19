@@ -13,3 +13,6 @@
 [submodule "src/baxter_common"]
 	path = src/baxter_common
 	url = https://github.com/RethinkRobotics/baxter_common.git
+[submodule "src/gazebo_ros_demos"]
+	path = src/gazebo_ros_demos
+	url = https://github.com/ros-simulation/gazebo_ros_demos.git
