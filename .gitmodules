@@ -1,0 +1,6 @@
+[submodule "src/-b"]
+	path = src/-b
+	url = git://github.com/youbot/youbot_description.git
+[submodule "src/externals/youbot"]
+	path = src/externals/youbot
+	url = git://github.com/youbot/youbot_description.git
