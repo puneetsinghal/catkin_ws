@@ -4,3 +4,6 @@
 [submodule "src/externals/youbot"]
 	path = src/externals/youbot
 	url = git://github.com/youbot/youbot_description.git
+[submodule "src/youbot_description"]
+	path = src/youbot_description
+	url = git://github.com/youbot/youbot_description.git
